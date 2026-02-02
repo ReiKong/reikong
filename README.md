@@ -1,6 +1,6 @@
 # Hi!
 
-I'm a fourth-year **Computer Science** and **Sociology** student minoring in **Computer Science** (strange, I know) at **McGill University**!
+I'm a fourth-year **Computer Science** and **Sociology** student minoring in **Computer Science** at **McGill University**!
 
 I am passionate about problem solving difficult challenges at the intersection of software engineering and product by leveraging my leadership skills and experience in programming and design thinking.
 
