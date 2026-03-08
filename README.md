@@ -6,7 +6,6 @@ I am passionate about problem solving difficult challenges at the intersection o
 
 Currently, I am:
 - Building software for socially impactful organizations through technical and non-technical leadership at the non-profit organization Hack4Impact.
-- Developing a platform to visually explore and discover new music.
 - Driving innovation and creativity by organizing McGill Engineering's largest hackathon.
 
 And a little bit more about me:
