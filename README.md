@@ -1,17 +1,20 @@
-# Hi!
+# Hi there!
 
-I'm a fourth-year **Computer Science** and **Sociology** student minoring in **Computer Science** at **McGill University**!
+I'm a 2026 McGill University graduate in **Computer Science** and **Sociology**.
 
-I am passionate about problem solving difficult challenges at the intersection of software engineering and product by leveraging my leadership skills and experience in programming and design thinking.
+I care about craft, grit, and raising the bar—for myself, my own work, and the people around me. I'm passionate about technology, design thinking, finance, and culture.
 
-Currently, I am:
-- Building software for socially impactful organizations through technical and non-technical leadership at the non-profit organization Hack4Impact.
-- Driving innovation and creativity by organizing McGill Engineering's largest hackathon.
+Previously, I:
+- Built a developer tool at **Amazon** supporting large-scale service migrations across AWS regions for thousands of teams.
+- **Led** teams building software for social-impact organizations at **Hack4Impact McGill**.
+- Drove innovation and developed community by organizing **CodeJam, McGill Engineering's largest hackathon**.
 
 And a little bit more about me:
 - Favorite theorem(s): Gödel's incompleteness theorems
 - Favorite typeface: Helvetica Neue
 - Favorite album: Enjoy It While It Lasts by Spector
+
+Outside of work, I photograph concerts and write about music.
 
 ## 📧  Get in touch!
 
