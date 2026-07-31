@@ -16,7 +16,7 @@ And a little bit more about me:
 
 Outside of work, I photograph concerts and write about music.
 
-## 📧  Get in touch!
+## Let's chat!
 
 - Email: reiskongs[at]gmail.com
 - Website: https://www.reikong.com
