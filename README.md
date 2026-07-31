@@ -7,7 +7,7 @@ I care about craft, grit, and raising the bar—for myself, my own work, and the
 Previously, I:
 - Built a developer tool at **Amazon** supporting large-scale service migrations across AWS regions for thousands of teams.
 - **Led** teams building software for social-impact organizations at [**Hack4Impact McGill**](https://mcgill.hack4impact.org/).
-- Drove innovation and developed community by organizing [**CodeJam, McGill Engineering's largest hackathon**](https://codejam.mcgilleus.ca/).
+- Drove innovation by organizing [**CodeJam, McGill Engineering's largest hackathon**](https://codejam.mcgilleus.ca/).
 
 And a little bit more about me:
 - Favorite theorem(s): [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
