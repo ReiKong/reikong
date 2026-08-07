@@ -2,7 +2,7 @@
 
 I'm a 2026 McGill University graduate in [**Computer Science**](https://www.cs.mcgill.ca/) and [**Sociology**](https://www.mcgill.ca/sociology/).
 
-I care about craft, grit, and raising the bar—for myself, my work, and the people around me—while always making room for good banter and better questions. I'm passionate about technology, design thinking, finance, and culture.
+Forever learning and standing on the shoulders of giants. I care about craft, grit, and raising the bar—for myself, my work, and the people around me—while making room for good banter and better questions. I'm passionate about technology, design thinking, finance, and culture.
 
 Previously, I:
 - Built a developer tool at **Amazon** supporting large-scale service migrations across AWS regions for thousands of teams.
