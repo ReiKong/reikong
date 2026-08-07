@@ -14,7 +14,7 @@ And a little bit more about me:
 - Favorite typeface: Helvetica Neue
 - Favorite album: [Enjoy It While It Lasts by Spector](https://open.spotify.com/album/2RW1pwZn0wYHZuJ8hT0YrN)
 
-Outside of work, I photograph concerts and write about music.
+Outside of work, I photograph concerts, write about music, read, and solve logic puzzles.
 
 ## Let's chat!
 
