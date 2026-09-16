@@ -1,11 +1,11 @@
 # Hi there!
 
-I'm a 2026 McGill University graduate in [**Computer Science**](https://www.cs.mcgill.ca/) and [**Sociology**](https://www.mcgill.ca/sociology/).
+I'm a SWE at **Amazon** building [internal tooling to facilitate large-scale service migrations across AWS regions for thousands of teams](https://www.businessinsider.com/amazon-ecommerce-cloud-aws-power-crunch-ai-2026-8). I'm also a 2026 McGill University graduate in [**Computer Science**](https://www.cs.mcgill.ca/) and [**Sociology**](https://www.mcgill.ca/sociology/).
 
 Forever learning and standing on the shoulders of giants. I care about craft, grit, and raising the bar—for myself, my work, and the people around me—while making room for good banter and better questions. I'm passionate about technology, design thinking, finance, and culture.
 
 Previously, I:
-- Built a developer tool at **Amazon** supporting large-scale service migrations across AWS regions for thousands of teams.
+- Interned at **Amazon** doing the same thing.
 - **Led** teams building software for social-impact organizations at [**Hack4Impact McGill**](https://mcgill.hack4impact.org/).
 - Drove innovation by organizing [**CodeJam, McGill Engineering's largest hackathon**](https://codejam.mcgilleus.ca/).
 
