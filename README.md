@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm a SWE at **Amazon** at Amazon Ads for Prime Video Display. I'm also a 2026 McGill University graduate in [**Computer Science**](https://www.cs.mcgill.ca/) and [**Sociology**](https://www.mcgill.ca/sociology/).
+I'm a SWE for Prime Video Display Ads at **Amazon**. I'm also a 2026 McGill University graduate in [**Computer Science**](https://www.cs.mcgill.ca/) and [**Sociology**](https://www.mcgill.ca/sociology/).
 
 Forever learning and standing on the shoulders of giants. I care about craft, grit, and raising the bar—for myself, my work, and the people around me—while making room for good banter and better questions. I'm passionate about technology, design thinking, finance, and culture.
 
